@@ -1,0 +1,4 @@
+#Tue May 29 15:48:59 ICT 2018
+base.0=E\:\\bonigallery\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=E\:\\bonigallery\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
